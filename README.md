@@ -9,7 +9,7 @@ https://www.kaggle.com/competitions/playground-series-s4e10/overview
 
 
 
-About The Project
+# About The Project
 
 This project is part of a Kaggle competiton, where participants are given a train & test dataset, with the objective of trying to predict which loan would default. The target variable "loan_status", is labeled in the train dataset, but the test dataset does not have the target variable. 
 
@@ -37,23 +37,14 @@ To use this depository, you will need to download the train, test and loan appro
 
 
 
-Contributing
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
+# License
 Distributed under the MIT License. See LICENSE for more information.
 
-Authors
+# Authors
 Vithushan Esan - Github: VithushanE
 
 Project Link: https://github.com/your_username/repo_name
 
-Acknowledgements
-You can acknowledge any individual, group, institution or service.
 
 Thank you
