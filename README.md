@@ -8,9 +8,6 @@ https://www.kaggle.com/competitions/playground-series-s4e10/overview
 ![image](https://github.com/user-attachments/assets/466dfbe9-4b62-4603-8ed5-634359970ca1)
 
 
-
-View Demo · Report Bug · Request Feature
-
 Table of Contents
 About The Project
 Built With
