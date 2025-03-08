@@ -8,17 +8,9 @@ https://www.kaggle.com/competitions/playground-series-s4e10/overview
 ![image](https://github.com/user-attachments/assets/466dfbe9-4b62-4603-8ed5-634359970ca1)
 
 
-Table of Contents
-About The Project
-Built With
-Getting Started
-Dependencies
-Contributing
-License
-Authors
-Acknowledgements
 
 About The Project
+
 This project is part of a Kaggle competiton, where participants are given a train & test dataset, with the objective of trying to predict which loan would default. The target variable "loan_status", is labeled in the train dataset, but the test dataset does not have the target variable. 
 
 By building a model using the train dataset, this model is then applied to the test dataset, and the model will predict whether or not a specific loan will default or not. 
